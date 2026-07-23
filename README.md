@@ -19,7 +19,7 @@ El proyecto se encuentra totalmente desplegado y funcional en entornos de produc
 
 | Cliente Web | Panel & Operaciones |
 | :---: | :---: |
-| ![Marketflow UI](https://via.placeholder.com/600x350?text=Marketflow+Frontend) | ![Marketflow API](https://via.placeholder.com/600x350?text=Marketflow+Dashboard) |
+| ![Marketflow UI](./assets/preview-1.png) | ![Marketflow Dashboard](./assets/preview-2.png) |
 
 ---
 
